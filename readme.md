@@ -12,7 +12,8 @@
 		add feature : show safe area in late state if possible
 		
 	
-	
+	data set obtained from: https://www.kaggle.com/skihikingkevin/pubg-match-deaths
+	map from:	https://www.kaggle.com/skihikingkevin/pubg-match-deaths
 	
 	Author 
 		Yupei Liang
