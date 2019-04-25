@@ -10,6 +10,10 @@
 		Analize it the data and find what is the best way to win
 		add feature : show final safe area to provent unnessary movement
 		
+		
+	if github not renders please go to 
+	https://nbviewer.jupyter.org/github/yupei1/MyEE551project/blob/master/final%20project.ipynb
+		
 	
 	data set obtained from: https://www.kaggle.com/skihikingkevin/pubg-match-deaths  4G
 	map from: Bulehole a PUBG company
